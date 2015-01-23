@@ -1,0 +1,36 @@
+[submodule "psas-gps-rf-board"]
+	path = psas-gps-rf-board
+	url = https://github.com/psas/gps-rf-board.git
+[submodule "tools/githook-eagle"]
+	path = tools/githook-eagle
+	url = https://github.com/AmazingHorse/githook-eagle.git
+[submodule "Stm32_hw"]
+	path = Stm32_hw
+	url = https://github.com/openstm32/Stm32_hw.git
+[submodule "part-libs/SparkFun-Eagle-Libraries"]
+	path = part-libs/SparkFun-Eagle-Libraries
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "part-libs/Adafruit-Eagle-Library"]
+	path = part-libs/Adafruit-Eagle-Library
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
+[submodule "tools/Eagle2Kicad"]
+	path = tools/Eagle2Kicad
+	url = https://github.com/DanChianucci/Eagle2Kicad.git
+[submodule "Eagle-Tutorial-Series"]
+	path = Eagle-Tutorial-Series
+	url = https://github.com/sciguy14/Eagle-Tutorial-Series.git
+[submodule "tools/PyEagle"]
+	path = tools/PyEagle
+	url = https://github.com/rmawatson/PyEagle.git
+[submodule "tools/Eagle-ULPs"]
+	path = tools/Eagle-ULPs
+	url = https://github.com/cmonr/Eagle-ULPs.git
+[submodule "tools/eagle-automation"]
+	path = tools/eagle-automation
+	url = https://github.com/avian2/eagle-automation.git
+[submodule "tools/Eagle-BOM-Manager"]
+	path = tools/Eagle-BOM-Manager
+	url = https://github.com/jbaker0428/Eagle-BOM-Manager.git
+[submodule "tools/JGeagle"]
+	path = tools/JGeagle
+	url = https://github.com/hurik/JGeagle.git
